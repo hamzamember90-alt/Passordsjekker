@@ -1,0 +1,13 @@
+{
+  "name": "passordsjekker",
+  "version": "1.0.0",
+  "description": "Sjekker om et passord har vært med i en kjent datalekkasje, uten å sende selve passordet.",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "test": "node --test"
+  }
+}
